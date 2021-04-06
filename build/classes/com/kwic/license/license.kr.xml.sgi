@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<license>
+	<business code="sgi" />
+	<sgi>
+		<mac value="L0I0LTk2LTkxLTQwLThCLUE0Lw=="/>
+		<mac value="L0I0LTk2LTkxLTQ3LTY4LTZDLw=="/>
+		<mac value="L0I0LTk2LTkxLTQ3LTY4LTY0Lw=="/>
+		<mac value="L0I0LTk2LTkxLTQ3LTY4LTRBLw=="/>
+		<mac value="L0I0LTk2LTkxLTQ3LTY4LTRDLw=="/>
+		<mac value="L0I0LTk2LTkxLTQ3LTYzLUZBLw=="/>
+		<!-- local -->
+		<mac value="LzcwLTg1LUMyLTg2LTRELTJCLw=="/>
+	</sgi>
+</license>
