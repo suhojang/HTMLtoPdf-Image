@@ -15,8 +15,8 @@ Map<String,Object> result = JMakeImage.getInstance().make(
                                       tml, //tml 문자열
                                       pdfPath, //생성 할 pdf의 경로
                                       imgPath, //생성 할 이미지의 경로
-                                      fileName, //pdf 및 이미지의 파일명
-                                      fontPath //pdf 및 이미지에 사용할 ttf의 경로
+                                      fileName, //생성 할 pdf 및 이미지의 파일명
+                                      isMac //mac license 여부
                                       );
 
 - 응답
